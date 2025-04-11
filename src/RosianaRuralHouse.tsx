@@ -6,6 +6,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { Calendar, Star, MapPin, Home, Coffee, Users, Droplets, Sun } from "lucide-react";
+import { JSX } from "react";
 
 interface Room {
   id: number;
